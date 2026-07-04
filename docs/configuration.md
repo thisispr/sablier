@@ -490,7 +490,7 @@ sablier --help
 
 # or
 
-docker run sablierapp/sablier:1.14.0 --help
+docker run sablierapp/sablier:1.15.0 --help
 ```
 <!-- x-release-please-end -->
 
